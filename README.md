@@ -1,17 +1,17 @@
-# PeerMeet
+# ConvoFlow
 
-PeerMeet is a peer-to-peer video conferencing React application inspired by Omegle. It allows users to engage in video calls with strangers in a seamless and user-friendly interface.
+ConvoFlow is a peer-to-peer video conferencing React application inspired by Omegle. It allows users to engage in video calls with strangers in a seamless and user-friendly interface.
 
 ## Features
 
-- **Peer-to-Peer Video Calls:** Utilizing WebRTC technology, PeerMeet enables direct video calls between users without the need for a central server.
+- **Peer-to-Peer Video Calls:** Utilizing WebRTC technology, ConvoFlow enables direct video calls between users without the need for a central server.
 - **Random Matching:** Similar to Omegle, users are randomly matched with each other for spontaneous video conversations.
-- **React-based Interface:** Built using React.js, PeerMeet offers a modern and responsive user interface for an optimal user experience.
-- **Metered Turn Servers:** PeerMeet leverages Metered.ca, a third-party service, for TURN servers to facilitate peer-to-peer connections, ensuring reliable and secure communication.
+- **React-based Interface:** Built using React.js, ConvoFlow offers a modern and responsive user interface for an optimal user experience.
+- **Metered Turn Servers:** ConvoFlow leverages Metered.ca, a third-party service, for TURN servers to facilitate peer-to-peer connections, ensuring reliable and secure communication.
 
 ## Getting Started
 
-To run PeerMeet locally, follow these steps:
+To run ConvoFlow locally, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Install dependencies by running
@@ -51,5 +51,5 @@ If you wish to use your own TURN server or another service for handling peer con
 
 ## Contributing
 
-Contributions are welcome! Feel free to submit issues or pull requests to help improve PeerMeet.
+Contributions are welcome! Feel free to submit issues or pull requests to help improve ConvoFlow.
 
