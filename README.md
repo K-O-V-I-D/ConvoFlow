@@ -52,7 +52,6 @@ If you wish to use your own TURN server or another service for handling peer con
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests to help improve ConvoFlow.
-@!!!!!!!!!!!!!!!!@$#####################$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$%
 
 
 
